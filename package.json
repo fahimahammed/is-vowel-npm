@@ -1,0 +1,22 @@
+{
+  "name": "is-vowel-npm",
+  "version": "1.0.0",
+  "description": "is this vowel?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahimahammed/is-vowel-npm.git"
+  },
+  "keywords": [
+    "vowel"
+  ],
+  "author": "Fahim Ahammed Firoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahimahammed/is-vowel-npm/issues"
+  },
+  "homepage": "https://github.com/fahimahammed/is-vowel-npm#readme"
+}
